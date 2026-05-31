@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oi, sou o Gustavo 👋
 
-<!--
-**GustavoSimao/GustavoSimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend Java construindo APIs REST.
 
-Here are some ideas to get you started:
+**Projeto principal:** [Regime Certo](https://github.com/GustavoSimao/Regime-Certo) — API que 
+ajuda empreendedores a identificar o regime tributário correto (MEI/ME/EPP) com base no faturamento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Java · Spring Boot · JPA/Hibernate · MySQL · Git · REST APIs
+
+**Além do código:** construí e liderei o [Bipiemi](https://bipiemi.netlify.app/) do qual foi necessario fazer modelagem de negócio, requisitos e pitch. Esse background me ajuda a entender 
+o negócio por trás do que estou desenvolvendo.
+
+**Contato:** [LinkedIn](https://linkedin.com/in/gu-simao)
