@@ -4,7 +4,7 @@ Desenvolvedor backend construindo APIs REST.
 
 **Stack:** PHP · Laravel
 
-**Além do código:** construí e liderei a [Bipiemi](https://bipiemi.netlify.app/) do qual foi necessario fazer modelagem de negócio, requisitos e pitch. Esse background me ajuda a entender 
+**Além do código:** construí e liderei a [Bipiemi](https://bipiemi.vercel.app/) do qual foi necessario fazer modelagem de negócio, requisitos e pitch. Esse background me ajuda a entender 
 o negócio por trás do que estou desenvolvendo.
 
 **Contato:** [LinkedIn](https://linkedin.com/in/gu-simao)
