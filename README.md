@@ -1,8 +1,8 @@
 ## Oi, sou o Gustavo 👋
 
-Desenvolvedor backend construindo APIs REST.
+Possuo conhecimento em **Produto, Negócios e Desenvolvimento**. Uso este espaço para documentar meus projetos e cases de produto.
 
-**Stack:** PHP · Java 
+---
 
-**Além do código:** construí e liderei a [Bipiemi](https://bipiemi.vercel.app/) do qual foi necessario fazer modelagem de negócio, requisitos e pitch. Esse background me ajuda a entender 
-o negócio por trás do que estou desenvolvendo.
+### 📬 Onde me encontrar
+* **LinkedIn:** [linkedin.com/in/gu-simao](https://www.linkedin.com/in/gu-simao)
